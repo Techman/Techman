@@ -1,3 +1,6 @@
+<center>
+<img alt="Michael's Titan in Destiny 2" src="./Banner.jpg">
+</center>
 Hello there! 👋
 
 I am Michael, an early-career Software Engineer. Thank you for taking the time to visit my profile!
