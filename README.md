@@ -1,5 +1,5 @@
 <center>
-    <img alt="Michael's Titan in Destiny 2. Screenshot taken from The Witch Queen campaign." src="./Banner.jpg">
+    <img alt="Michael's Titan in Destiny 2. Screenshot taken from The Witch Queen campaign." src="./Banner.png">
 </center>
 <br />
 
